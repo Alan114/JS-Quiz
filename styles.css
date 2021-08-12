@@ -1,0 +1,18 @@
+.result {
+  font-size: 2rem;
+  font-weight: bold;
+}
+form {
+  padding: 2rem;
+  margin: 2rem;
+  opacity: 95%;
+}
+
+.btn {
+  margin: 4rem 4rem;
+  padding: 0 4rem;
+}
+
+.question {
+  padding: 2rem 4rem;
+}
